@@ -12,3 +12,4 @@ print(name)
 # Simple calculation
 sum = x + y
 print("Sum:", sum)
+# Git practice commit
